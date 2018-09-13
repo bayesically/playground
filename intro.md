@@ -1,1 +1,3 @@
-A Project by Joe
+<<<<<<< HEAD
+A Project by Joe and Sally
+>>>>>>> origin/master
